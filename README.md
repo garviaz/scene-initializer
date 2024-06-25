@@ -1,2 +1,2 @@
 # scene-initializer
-HDA to initialize basic scenes with camera and lights
+Houdini HDA to initialize basic scenes with camera and lights
